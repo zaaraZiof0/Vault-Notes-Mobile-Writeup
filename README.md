@@ -1,12 +1,1 @@
-Challenge Name: Vault Notes
-
-Category: Android Mobile
-
-Difficulty: Medium
-
-
-## Challenge Description: 
-A recovered Android application package was partially decoded after extraction. The application files are incomplete but still contain enough logic and data artifacts to reconstruct the hidden token used by the app. Analyze the provided Android app artifacts and recover the correct flag.  
-
-## Flag format: 
-```ZeroX{...........}```
+A recovered Android application package was partially decoded after extraction. The application files are incomplete but still contain enough logic and data artifacts to reconstruct the hidden token used by the app. Analyze the provided Android app artifacts and recover the correct flag.
